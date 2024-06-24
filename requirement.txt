@@ -12,5 +12,4 @@ openpyxl
 rank_bm25 
 PyPDF2
 sentence_transformers
-fugashi #japanese
-ipadic #japanses
+
